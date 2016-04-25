@@ -1,0 +1,32 @@
+﻿@model lcsFirstSteps.Models.Person
+@using System.Web.Mvc.Html
+@using System.Web.UI.WebControls
+
+
+@{
+    ViewBag.Title = "Page Title";
+   
+}
+
+<h2>Page Title</h2>
+
+<h1>Welcome @Model.FirstName</h1>
+
+<div class="active">
+
+    <label>Model details</label>
+    @Html.DisplayForModel(Model)
+
+
+   <form action="@Url.Action("Display", "Lcs")">
+        <div>
+            <label>First Name</label>
+            @Html.TextBoxFor(x => x.FirstName)
+        </div>
+        <div>
+            <label>Last Name</label>
+            @Html.TextBoxFor(x => x.LastName)
+        </div>
+<button type="submit">Submit</button>
+    </form>
+</div>
