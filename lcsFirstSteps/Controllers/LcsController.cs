@@ -11,7 +11,7 @@ namespace lcsFirstSteps.Controllers
     using System;
     using System.Web.Mvc;
 
-    using lcsFirstSteps.Models;
+    using global::Models;
 
     /// <summary>The lcs controller.</summary>
     public class LcsController : Controller

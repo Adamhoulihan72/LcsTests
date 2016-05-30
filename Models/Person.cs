@@ -6,13 +6,14 @@
 //   The person view model.
 // </summary>
 // ------------------------------------------------------------------------------------------------------------------------
-namespace lcsFirstSteps.Models
+namespace Models
 {
     using System;
 
     /// <summary>The person view model.</summary>
     public class Person
     {
+        public int PersonId { get; set; }
         /// <summary>Gets or sets the age.</summary>
         public int Age { get; set; }
 

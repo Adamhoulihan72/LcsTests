@@ -191,6 +191,9 @@ F:\git\LcsTests\lcsFirstSteps\bin\lcsFirstSteps.dll.config
 F:\git\LcsTests\lcsFirstSteps\bin\lcsFirstSteps.dll
 F:\git\LcsTests\lcsFirstSteps\bin\lcsFirstSteps.pdb
 F:\git\LcsTests\lcsFirstSteps\bin\Antlr3.Runtime.dll
+F:\git\LcsTests\lcsFirstSteps\bin\Contracts.dll
+F:\git\LcsTests\lcsFirstSteps\bin\DataReader.dll
+F:\git\LcsTests\lcsFirstSteps\bin\DataWriter.dll
 F:\git\LcsTests\lcsFirstSteps\bin\EntityFramework.dll
 F:\git\LcsTests\lcsFirstSteps\bin\EntityFramework.SqlServer.dll
 F:\git\LcsTests\lcsFirstSteps\bin\Microsoft.AI.Agent.Intercept.dll
@@ -214,8 +217,10 @@ F:\git\LcsTests\lcsFirstSteps\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
 F:\git\LcsTests\lcsFirstSteps\bin\Microsoft.Owin.Security.OAuth.dll
 F:\git\LcsTests\lcsFirstSteps\bin\Microsoft.Owin.Security.Twitter.dll
 F:\git\LcsTests\lcsFirstSteps\bin\Microsoft.Web.Infrastructure.dll
+F:\git\LcsTests\lcsFirstSteps\bin\Models.dll
 F:\git\LcsTests\lcsFirstSteps\bin\Newtonsoft.Json.dll
 F:\git\LcsTests\lcsFirstSteps\bin\Owin.dll
+F:\git\LcsTests\lcsFirstSteps\bin\Persistence.dll
 F:\git\LcsTests\lcsFirstSteps\bin\System.Net.Http.Formatting.dll
 F:\git\LcsTests\lcsFirstSteps\bin\System.Web.Helpers.dll
 F:\git\LcsTests\lcsFirstSteps\bin\System.Web.Http.dll
@@ -227,6 +232,11 @@ F:\git\LcsTests\lcsFirstSteps\bin\System.Web.WebPages.Deployment.dll
 F:\git\LcsTests\lcsFirstSteps\bin\System.Web.WebPages.dll
 F:\git\LcsTests\lcsFirstSteps\bin\System.Web.WebPages.Razor.dll
 F:\git\LcsTests\lcsFirstSteps\bin\WebGrease.dll
+F:\git\LcsTests\lcsFirstSteps\bin\Contracts.pdb
+F:\git\LcsTests\lcsFirstSteps\bin\DataReader.pdb
+F:\git\LcsTests\lcsFirstSteps\bin\DataWriter.pdb
+F:\git\LcsTests\lcsFirstSteps\bin\Models.pdb
+F:\git\LcsTests\lcsFirstSteps\bin\Persistence.pdb
 F:\git\LcsTests\lcsFirstSteps\bin\Microsoft.AI.DependencyCollector.xml
 F:\git\LcsTests\lcsFirstSteps\bin\Microsoft.AI.ServerTelemetryChannel.xml
 F:\git\LcsTests\lcsFirstSteps\bin\Microsoft.AI.Web.xml
